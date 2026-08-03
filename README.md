@@ -75,12 +75,4 @@ Two inconsistencies in the raw spreadsheets are worth flagging, both left as gen
 - `results/Stage_Study_Results.xlsx` carries a "Reflux Ratio" column reading 2, 3, 4, 5. The corresponding input file specifies R = 2 for all five cases, and the 12-stage row reproduces the R = 2 reflux-study row exactly, so R = 2 is the value actually simulated. The row for Case 5 is also shifted one cell to the left.
 - The base case (12 stages, R = 2, feed at 25 °C) appears in both the reflux study and the feed-temperature study, but returns 0.9170 in one and 0.9058 in the other, a difference of 0.0112.
 
-## References
 
-The full IEEE-format reference list is in the report. Principal sources:
-
-- W. L. McCabe, J. C. Smith and P. Harriott, *Unit Operations of Chemical Engineering*, 7th ed.
-- J. D. Seader, E. J. Henley and D. K. Roper, *Separation Process Principles*, 3rd ed.
-- R. H. Perry and D. W. Green, *Perry's Chemical Engineers' Handbook*, 8th ed.
-- H. Renon and J. M. Prausnitz, "Local compositions in thermodynamic excess functions for liquid mixtures," *AIChE J.*, 1968.
-- DWSIM Documentation, https://dwsim.org/
