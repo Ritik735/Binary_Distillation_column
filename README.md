@@ -2,7 +2,7 @@
 
 Design and parametric study of a continuous binary distillation column separating an equimolar ethanol-water feed, simulated in **DWSIM** with the **ChemSep** rigorous column unit operation.
 
-Deepanshu Kumar (Roll No. 124CH0061)
+Ritik Kumar (Roll No. 124CH0061)
 Department of Chemical Engineering, National Institute of Technology Rourkela
 
 ---
